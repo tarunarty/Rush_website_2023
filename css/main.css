@@ -3279,7 +3279,7 @@ textarea {
 
 @media (min-width: 768px) {
   .page-header-alpha .navbar-brand .logo img {
-    height: 48px;
+    height: 192px;
   }
 }
 
@@ -6440,6 +6440,7 @@ h4 {
   z-index: 999;
   width: 100%;
   height: 100%;
+  zoom: 1.25;
   overflow: visible;
   background: #0E0C0D url("../img/favicon.ico") no-repeat center center;
 }
