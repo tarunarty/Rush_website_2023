@@ -6783,9 +6783,9 @@ h4 {
   z-index: 999;
   width: 100%;
   height: 100%;
-  zoom: 1.25;
+  zoom: 0.7;
   overflow: visible;
-  background: #0e0c0d url("../img/favicon.ico") no-repeat center center;
+  background: #0e0c0d url("../img/logo.svg") no-repeat center center;
 }
 
 /* FAQs */
